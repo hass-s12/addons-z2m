@@ -1,0 +1,5 @@
+{
+  "name": "Home Assistant Add-on: Zigbee2MQTT S12",
+  "url": "https://github.com/hass-s12/addons-z2m",
+  "maintainer": "Aurimas Niekis <aurimas@niekis.lt>"
+}
